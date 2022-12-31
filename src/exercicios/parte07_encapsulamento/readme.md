@@ -1,0 +1,1 @@
+Sobrecarga é um recurso que a classe possui de oferecer mais de uma operação com o mesmo nome, porém com diferentes listas de parâmetros.
