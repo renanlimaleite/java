@@ -1,0 +1,1 @@
+varios tipos mais genericos apontam para objetos mais especificos.
